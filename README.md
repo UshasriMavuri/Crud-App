@@ -1,6 +1,6 @@
 ### Contributors
-	Ushasri Mavuri 
-	Geetha Peddinni
+	Ushasri Mavuri (ushasri.mavuri@thoughtworks.com)
+	Geetha Peddinni (geetha.peddinni@thoughtworks.com)
 
 ### Path to Yaml Files
 ```
