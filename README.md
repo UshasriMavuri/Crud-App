@@ -14,6 +14,17 @@
 	postgress-deployment.yaml
 	postgress-service.yaml
 ```
+### Namespace Creation
+
+```
+ 	kubectl create namespace crud-app
+ 	kubectl config set-context $(kubectl config current-context) --namespace=crud-app
+  	kubectl get secrets -n crud-app
+  	kubectl create -f postgress-service.yaml -n crud-app
+	kubectl create -f postgress-deployment.yaml -n crud-app
+  	kubectl create -f backend-service.yaml -n crud-app
+ 	kubectl create -f backend-deployment.yaml -n crud-app
+```
 
 # The Rise of the Containers (semi-guided) material
 
