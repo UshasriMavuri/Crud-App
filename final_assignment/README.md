@@ -1,19 +1,3 @@
-### Contributors
-	Ushasri Mavuri 
-	Geetha Peddinni
-
-### Path to Yaml Files
-```
-	ROTC-semi-guided-material/final_assignment/crud_app/
-	
-	backend-deployement.yaml
-	backend-service.yaml
-	db-password-secret.yaml
-	persistent-volume.yaml
-	persistent-volumeclaim.yaml
-	postgress-deployment.yaml
-	postgress-service.yaml
-```
 # Kubernetes Assignment
 
 ## New Project - Crud REST API MVP
