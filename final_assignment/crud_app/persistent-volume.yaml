@@ -9,5 +9,6 @@ spec:
   accessModes:
     - ReadWriteOnce
   persistentVolumeReclaimPolicy: Retain
+  storageClassName: ""
   hostPath:
-    path: /mnt/data
+    path: /var/lib/postgresql/data
