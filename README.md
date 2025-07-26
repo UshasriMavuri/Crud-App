@@ -4,7 +4,7 @@
 
 ### Path to Yaml Files
 ```
-	ROTC-semi-guided-material/final_assignment/crud_app/
+	final_assignment/crud_app/
 	
 	backend-deployement.yaml
 	backend-service.yaml
